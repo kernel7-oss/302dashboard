@@ -1,21 +1,21 @@
 student,school_year,school,neighborhood,day,date,subject,teacher,time_start,time_end,duration_minutes,scheduled_hours,effective_hours,is_holiday,holiday_reason,week,date_range
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-02-24,Ciencias Sociales,Prof. Ana,15:00,16:20,80,1.33,1.33,False,,2302_2026,23/02 al 27/02/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-02-24,Construcción de Ciudadanía,Prof. Ana,16:20,17:20,60,1.0,1.0,False,,2302_2026,23/02 al 27/02/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-02-25,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,2302_2026,23/02 al 27/02/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-02-25,Lengua y Literatura,Prof. Pablo,15:30,16:40,70,1.17,1.17,False,,2302_2026,23/02 al 27/02/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-02-25,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,2302_2026,23/02 al 27/02/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-02-25,Lengua y Literatura,Prof. Pablo T.,15:30,16:40,70,1.17,1.17,False,,2302_2026,23/02 al 27/02/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-02-26,Inglés,Prof. Maxi,14:00,15:20,80,1.33,1.33,False,,2302_2026,23/02 al 27/02/2026
 Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Martes,2026-02-24,Ciencias Sociales,Sin Asignar,15:50,16:30,40,0.67,0.67,False,,2302_2026,23/02 al 27/02/2026
 Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Martes,2026-02-24,Matemática,Prof. Ana,16:30,17:20,50,0.83,0.83,False,,2302_2026,23/02 al 27/02/2026
 Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Martes,2026-02-24,Matemática,Prof. Ana,16:50,17:30,40,0.67,0.67,False,,2302_2026,23/02 al 27/02/2026
 Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Miércoles,2026-02-25,Construcción de Ciudadanía,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2302_2026,23/02 al 27/02/2026
-Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Jueves,2026-02-26,Lengua y Literatura,Prof. Pablo,13:20,14:20,60,1.0,1.0,False,,2302_2026,23/02 al 27/02/2026
+Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Jueves,2026-02-26,Lengua y Literatura,Prof. Pablo T.,13:20,14:20,60,1.0,1.0,False,,2302_2026,23/02 al 27/02/2026
 Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Jueves,2026-02-26,Inglés,Prof. Maxi,16:00,16:40,40,0.67,0.67,False,,2302_2026,23/02 al 27/02/2026
 Gonzalez Maza Muriel,3° Año,Escuela Nº 7702,Laprida,Viernes,2026-02-27,P.O.T. / Tutoría,Prof. Ricardo,16:00,17:00,60,1.0,1.0,False,,2302_2026,23/02 al 27/02/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Lunes,2026-03-02,Día De La Inmaculada Concepción De María Feriado Nacional.,Sin Asignar,14:00,15:20,80,1.33,0.0,True,Día de la Inmaculada Concepción de María Feriado Nacional.,0203_2026,02/03 al 06/03/2026
-Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Matemática,Prof. Pablo,13:20,14:00,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
-Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Ciencias Naturales,Prof. Pablo,14:00,14:40,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
+Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Matemática,Prof. Pablo T.,13:20,14:00,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
+Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Ciencias Naturales,Prof. Pablo T.,14:00,14:40,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Ciencias Naturales,Prof. Julieta,15:00,16:20,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
-Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Cs. Experimentales /E.O.I. A,Prof. Julieta,16:20,18:00,100,1.67,1.67,False,,0203_2026,02/03 al 06/03/2026
+Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-03,Ciencias Naturales,Prof. Julieta,16:20,18:00,100,1.67,1.67,False,,0203_2026,02/03 al 06/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-04,Lengua y Literatura,Prof. María Fernanda,16:30,17:10,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-04,Inglés,Prof. Ana,16:10,17:20,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-04,Inglés,Prof. Ana,15:10,16:20,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
@@ -26,7 +26,7 @@ Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Viernes,2026-03-06,Ciencias
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Viernes,2026-03-06,Ciencias Sociales,Prof. Ana,14:00,14:40,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-02,Ciencias Sociales,Sin Asignar,13:20,14:00,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-02,Ciencias Sociales,Prof. Ana,14:00,14:40,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
-Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-03,Matemática,Prof. Pablo,15:00,16:00,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
+Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-03,Matemática,Prof. Pablo T.,15:00,16:00,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-03,Ciencias Naturales,Prof. Julieta,17:00,18:00,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-04,Construcción de Ciudadanía,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-05,Lengua y Literatura,Prof. Pablo S.,13:20,14:30,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
@@ -35,72 +35,72 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-03-06,Inglés
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-03,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-03,Matemática,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-03,Matemática,Prof. Ana,16:00,17:20,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-04,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-04,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-03-05,Educación Tecnológica,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Viernes,2026-03-06,Inglés,Prof. Maxi,14:00,15:10,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-03,Ciencias Sociales,Prof. Ana,15:00,16:20,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-03,Construcción de Ciudadanía,Prof. Ana,16:20,17:20,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-04,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-04,Lengua y Literatura,Prof. Pablo,15:30,16:40,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-04,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-04,Lengua y Literatura,Prof. Pablo T.,15:30,16:40,70,1.17,1.17,False,,0203_2026,02/03 al 06/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-03-05,Inglés,Prof. Maxi,14:00,15:20,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Martes,2026-03-03,Ciencias Sociales,Sin Asignar,15:50,16:30,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Martes,2026-03-03,Matemática,Prof. Ana,16:30,17:20,50,0.83,0.83,False,,0203_2026,02/03 al 06/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Martes,2026-03-03,Matemática,Prof. Ana,16:50,17:30,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Miércoles,2026-03-04,Construcción de Ciudadanía,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0203_2026,02/03 al 06/03/2026
-Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Jueves,2026-03-05,Lengua y Literatura,Prof. Pablo,13:20,14:20,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
+Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Jueves,2026-03-05,Lengua y Literatura,Prof. Pablo T.,13:20,14:20,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Jueves,2026-03-05,Inglés,Prof. Maxi,16:00,16:40,40,0.67,0.67,False,,0203_2026,02/03 al 06/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Viernes,2026-03-06,P.O.T. / Tutoría,Prof. Ricardo,16:00,17:00,60,1.0,1.0,False,,0203_2026,02/03 al 06/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-09,Ciencias Sociales,Prof. Ana,13:20,14:00,40,0.67,0.67,False,,0903_2026,09/03 al 13/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-09,Construcción de Ciudadanía,Prof. Ana,14:00,14:40,40,0.67,0.67,False,,0903_2026,09/03 al 13/03/2026
-Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-10,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
+Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-10,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-11,Inglés,Prof. Maxi,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-12,Lengua y Literatura,Prof. Pablo S.,13:20,14:30,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-03-13,Educación Tecnológica,Prof. Karina,13:20,14:30,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-09,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-09,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-10,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-10,Construcción de Ciudadanía,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,0903_2026,09/03 al 13/03/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-11,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-11,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-03-12,Educación Tecnológica,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Viernes,2026-03-13,Inglés,Prof. Maxi,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-10,Ciencias Sociales,Prof. Ana,15:00,16:20,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-11,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-11,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-03-12,Inglés,Prof. Maxi,14:00,15:20,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
-Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Lunes,2026-03-09,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
+Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Lunes,2026-03-09,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Martes,2026-03-10,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Martes,2026-03-10,Construcción de Ciudadanía,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,0903_2026,09/03 al 13/03/2026
-Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-03-11,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
+Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-03-11,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-03-12,Educación Tecnológica,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,0903_2026,09/03 al 13/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-03-13,Inglés,Prof. Maxi,14:00,15:10,70,1.17,1.17,False,,0903_2026,09/03 al 13/03/2026
-Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Lunes,2026-03-16,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
+Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Lunes,2026-03-16,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-03-18,Inglés,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-03-18,Inglés,Prof. Ana,15:20,16:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
-Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-03-19,Lengua y Literatura,Prof. Pablo,15:00,16:20,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
+Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-03-19,Lengua y Literatura,Prof. Pablo T.,15:00,16:20,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-03-20,Construcción de Ciudadanía,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,1603_2026,16/03 al 20/03/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-03-20,Construcción de Ciudadanía,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-03-16,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,13:20,14:00,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-03-16,P.O.T. / Tutoría,Prof. Ana,14:00,14:40,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-03-16,P.O.T. / Tutoría,Prof. Ana,14:50,15:50,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-03-17,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-03-18,Matemática,Prof. Pablo,16:10,17:20,70,1.17,1.17,False,,1603_2026,16/03 al 20/03/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-03-17,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-03-18,Matemática,Prof. Pablo T.,16:10,17:20,70,1.17,1.17,False,,1603_2026,16/03 al 20/03/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Viernes,2026-03-20,Inglés,Prof. Maxi,14:00,15:10,70,1.17,1.17,False,,1603_2026,16/03 al 20/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Lunes,2026-03-16,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,15:10,16:00,50,0.83,0.83,False,,1603_2026,16/03 al 20/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Lunes,2026-03-16,Ciud. Y Trabajo A,Prof. Ana,16:00,16:40,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-18,Matemática,Prof. Maxi,14:00,14:40,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-18,Matemática,Prof. Maxi,15:00,15:40,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
-Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-18,P.O.T. / Tutoría,Prof. Pablo,16:00,17:00,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
+Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-18,P.O.T. / Tutoría,Prof. Pablo T.,16:00,17:00,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Jueves,2026-03-19,Lengua y Literatura,Prof. Pablo S.,13:20,14:30,70,1.17,1.17,False,,1603_2026,16/03 al 20/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-16,Ciencias Sociales,Prof. Ana,13:20,14:00,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
-Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-18,Matemática,Prof. Pablo,14:00,14:40,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
+Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-18,Matemática,Prof. Pablo T.,14:00,14:40,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-18,Construcción de Ciudadanía,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,1603_2026,16/03 al 20/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-19,Inglés,Prof. Maxi,14:00,15:00,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-19,Educación Tecnológica,Prof. Maxi,15:20,16:00,40,0.67,0.67,False,,1603_2026,16/03 al 20/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-19,Educación Tecnológica,Prof. Karina,16:20,17:20,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-03-20,Lengua y Literatura,Prof. Pablo S.,13:20,14:30,70,1.17,1.17,False,,1603_2026,16/03 al 20/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-16,Matemática,Prof. Ricardo,13:20,14:20,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-16,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-16,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-17,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-17,Construcción de Ciudadanía,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,1603_2026,16/03 al 20/03/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-18,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-18,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-03-19,Inglés,Prof. Maxi,15:20,16:40,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Viernes,2026-03-20,Educación Tecnológica,Prof. Karina,15:40,17:00,80,1.33,1.33,False,,1603_2026,16/03 al 20/03/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-03-24,Ciencias Sociales,Sin Asignar,13:20,14:00,40,0.67,0.0,True,Día Nacional de la Memoria por la Verdad y la Justicia,2303_2026,23/03 al 27/03/2026
@@ -109,13 +109,13 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-03
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-03-25,Lengua y Literatura,Prof. María Fernanda,15:00,16:10,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-03-25,Construcción de Ciudadanía,Prof. Julieta,17:10,18:00,50,0.83,0.83,False,,2303_2026,23/03 al 27/03/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-03-25,Construcción de Ciudadanía,Prof. Ana,16:20,17:20,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
-Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-03-26,Matemática,Prof. Pablo,13:20,14:20,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
+Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-03-26,Matemática,Prof. Pablo T.,13:20,14:20,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-03-27,Ciencias Sociales,Sin Asignar,15:40,16:20,40,0.67,0.67,False,,2303_2026,23/03 al 27/03/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-03-27,Ciencias Sociales,Prof. Ana,16:20,17:00,40,0.67,0.67,False,,2303_2026,23/03 al 27/03/2026
 Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Lunes,2026-03-23,P.O.T. / Tutoría,Prof. Ricardo,13:20,14:20,60,1.0,0.0,True,Día no laborable con fines turísticos (Puente),2303_2026,23/03 al 27/03/2026
 Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Martes,2026-03-24,P.O.T. / Tutoría,Prof. Ricardo,13:20,14:20,60,1.0,0.0,True,Día Nacional de la Memoria por la Verdad y la Justicia,2303_2026,23/03 al 27/03/2026
-Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Miércoles,2026-03-25,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
-Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Jueves,2026-03-26,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
+Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Miércoles,2026-03-25,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
+Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Jueves,2026-03-26,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Jueves,2026-03-26,Inglés,Prof. Maxi,15:30,16:30,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
 Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Viernes,2026-03-27,Ciencias Sociales,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Quiroga Juan Bautista,2° Año,Instituto Don Bosco Nº 1702,Centro,Viernes,2026-03-27,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
@@ -138,13 +138,13 @@ Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-03-25,Matem
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Jueves,2026-03-26,Lengua y Literatura,Prof. Pablo S.,13:20,14:30,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Viernes,2026-03-27,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,15:10,16:00,50,0.83,0.83,False,,2303_2026,23/03 al 27/03/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Viernes,2026-03-27,Ciud. Y Trabajo A,Prof. Ana,16:00,16:40,40,0.67,0.67,False,,2303_2026,23/03 al 27/03/2026
-Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-25,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
+Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-25,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-03-25,Ciencias Sociales,Prof. Ana,15:20,16:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-26,Lengua y Literatura,Prof. Maxi,14:00,15:00,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-03-26,Lengua y Literatura,Prof. Maxi,15:10,16:20,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-03-27,Construcción de Ciudadanía,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,2303_2026,23/03 al 27/03/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-03-27,Educación Tecnológica,Prof. Ana,15:10,16:20,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-25,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-25,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-03-25,Construcción de Ciudadanía,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-03-26,Ciencias Sociales,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,2303_2026,23/03 al 27/03/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-03-26,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
@@ -153,9 +153,9 @@ Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Viernes,2026-03-2
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-25,Inglés,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-25,Inglés,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,2303_2026,23/03 al 27/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-03-25,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-03-26,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-03-26,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-03-26,Ciencias Naturales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Viernes,2026-03-27,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Viernes,2026-03-27,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Viernes,2026-03-27,Ciencias Naturales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2303_2026,23/03 al 27/03/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Viernes,2026-03-27,P.O.T. / Tutoría,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,2303_2026,23/03 al 27/03/2026
 Gonzalez Maza Muriel,4° Año,Escuela Nº 7702,Laprida,Viernes,2026-03-27,P.O.T. / Tutoría,Prof. Ricardo,13:20,14:20,60,1.0,1.0,False,,2303_2026,23/03 al 27/03/2026
@@ -164,19 +164,19 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Lunes,2026-03-
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Lunes,2026-03-30,Construcción de Ciudadanía,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-03-31,Inglés,Prof. Noelia,17:00,18:00,60,1.0,1.0,False,,3003_2026,30/03 al 03/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-01,Matemática,Prof. Ricardo,13:20,14:20,60,1.0,1.0,False,,3003_2026,30/03 al 03/04/2026
-Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-01,Matemática,Prof. Pablo,15:40,17:20,100,1.67,1.67,False,,3003_2026,30/03 al 03/04/2026
+Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-01,Matemática,Prof. Pablo T.,15:40,17:20,100,1.67,1.67,False,,3003_2026,30/03 al 03/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-01,Lengua y Literatura,Prof. María Fernanda,15:00,16:10,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-03-30,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-03-30,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-03-30,Construcción de Ciudadanía,Prof. Ana,15:50,16:40,50,0.83,0.83,False,,3003_2026,30/03 al 03/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-03-30,P.O.T. / Tutoría,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-31,Lengua y Literatura,Prof. Pablo,13:20,15:00,100,1.67,1.67,False,,3003_2026,30/03 al 03/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-31,Ciencias Naturales,Prof. Pablo,15:50,16:30,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-31,Lengua y Literatura,Prof. Pablo T.,13:20,15:00,100,1.67,1.67,False,,3003_2026,30/03 al 03/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-31,Ciencias Naturales,Prof. Pablo T.,15:50,16:30,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-03-31,Ciencias Naturales,Prof. Vanina,16:30,17:20,50,0.83,0.83,False,,3003_2026,30/03 al 03/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-01,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-01,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Lunes,2026-03-30,Ciencias Naturales,Prof. Karina,15:40,17:00,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Lunes,2026-03-30,Ciencias Naturales,Prof. Karina,15:20,17:20,120,2.0,2.0,False,,3003_2026,30/03 al 03/04/2026
-Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Martes,2026-03-31,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
+Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Martes,2026-03-31,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Martes,2026-03-31,Inglés,Prof. Maxi,15:40,16:40,60,1.0,1.0,False,,3003_2026,30/03 al 03/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-04-01,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-04-01,Lengua y Literatura,Prof. Ana,14:40,15:10,30,0.5,0.5,False,,3003_2026,30/03 al 03/04/2026
@@ -192,8 +192,8 @@ Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Lunes,2026-03-30,Lengua y L
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Lunes,2026-03-30,Inglés,Prof. Maxi,14:00,15:00,60,1.0,1.0,False,,3003_2026,30/03 al 03/04/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-31,Ciencias Naturales,Prof. Vanina,14:00,14:40,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Martes,2026-03-31,Probl. Context. De Las Cs Nat. A,Prof. Vanina,14:40,15:20,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
-Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-04-01,Matemática,Prof. Pablo,15:30,16:40,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
-Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-04-01,Ciencias Naturales,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
+Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-04-01,Matemática,Prof. Pablo T.,15:30,16:40,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
+Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-04-01,Ciencias Naturales,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Miércoles,2026-04-01,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,16:00,16:40,40,0.67,0.67,False,,3003_2026,30/03 al 03/04/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Jueves,2026-04-02,Ciud. Y Trabajo A,Prof. Ana,16:00,16:40,40,0.67,0.0,True,Día del Veterano y de los Caídos en Malvinas / Jueves Santo,3003_2026,30/03 al 03/04/2026
 Perez Carolina Giselle,6° Año,Escuela Nº 7702,Pte,Viernes,2026-04-03,Ciud. Y Trabajo A,Prof. Ana,16:00,16:40,40,0.67,0.0,True,Viernes Santo Festividad Cristiana,3003_2026,30/03 al 03/04/2026
@@ -201,13 +201,13 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-30,Lengua y 
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Lunes,2026-03-30,Lengua y Literatura,Prof. Maxi,15:10,16:20,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-31,Construcción de Ciudadanía,Prof. Karina,15:10,16:20,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-03-31,Construcción de Ciudadanía,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
-Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-01,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
+Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-01,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,3003_2026,30/03 al 03/04/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-01,Ciencias Sociales,Prof. Ana,15:20,16:40,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-30,Ciencias Sociales,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,3003_2026,30/03 al 03/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-03-30,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-31,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-31,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-03-31,Inglés,Prof. Maxi,14:00,15:00,60,1.0,1.0,False,,3003_2026,30/03 al 03/04/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-04-01,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-04-01,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,3003_2026,30/03 al 03/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-04-01,Construcción de Ciudadanía,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,3003_2026,30/03 al 03/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-04-07,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-08,Ciencias Sociales,Sin Asignar,13:20,14:00,40,0.67,0.67,False,,0604_2026,06/04 al 10/04/2026
@@ -217,11 +217,11 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,202
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-04-09,Lengua y Literatura,Prof. Vanina,14:00,15:00,60,1.0,1.0,False,,0604_2026,06/04 al 10/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-04-09,Lengua y Literatura,Prof. Pablo S.,15:10,16:40,90,1.5,1.5,False,,0604_2026,06/04 al 10/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-04-10,P.O.T. / Tutoría,Prof. Ricardo,13:20,14:20,60,1.0,1.0,False,,0604_2026,06/04 al 10/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-06,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-06,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-06,Ciencias Sociales,Prof. Ana,15:50,16:40,50,0.83,0.83,False,,0604_2026,06/04 al 10/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-06,P.O.T. / Tutoría,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,0604_2026,06/04 al 10/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-07,Lengua y Literatura,Prof. Pablo,13:20,15:00,100,1.67,1.67,False,,0604_2026,06/04 al 10/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-07,Ciencias Naturales,Prof. Pablo,15:50,16:30,40,0.67,0.67,False,,0604_2026,06/04 al 10/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-07,Lengua y Literatura,Prof. Pablo T.,13:20,15:00,100,1.67,1.67,False,,0604_2026,06/04 al 10/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-07,Ciencias Naturales,Prof. Pablo T.,15:50,16:30,40,0.67,0.67,False,,0604_2026,06/04 al 10/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-07,Ciencias Naturales,Prof. Vanina,16:30,17:20,50,0.83,0.83,False,,0604_2026,06/04 al 10/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-08,Construcción de Ciudadanía,Prof. Ana,15:40,16:40,60,1.0,1.0,False,,0604_2026,06/04 al 10/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-04-09,Inglés,Prof. Maxi,15:40,16:50,70,1.17,1.17,False,,0604_2026,06/04 al 10/04/2026
@@ -233,7 +233,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,20
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-04-09,Lengua y Literatura,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-04-09,Lengua y Literatura,Prof. Karina,15:20,16:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-04-10,Educación Tecnológica,Prof. Karina,15:30,17:00,90,1.5,1.5,False,,0604_2026,06/04 al 10/04/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-04-06,Matemática,Prof. Pablo,15:40,17:20,100,1.67,1.67,False,,0604_2026,06/04 al 10/04/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-04-06,Matemática,Prof. Pablo T.,15:40,17:20,100,1.67,1.67,False,,0604_2026,06/04 al 10/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-07,Ciud. Y Trabajo A Probl. Actual Del Mundo Contemporaneo,Prof. Ana,13:20,14:00,40,0.67,0.67,False,,0604_2026,06/04 al 10/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-07,Lengua y Literatura,Prof. Ana,14:00,14:50,50,0.83,0.83,False,,0604_2026,06/04 al 10/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-07,Lengua y Literatura,Prof. Ana,15:20,16:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
@@ -258,8 +258,8 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-04-10,Educaci
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-04-06,Ciencias Sociales,Prof. Ana,14:40,15:40,60,1.0,1.0,False,,0604_2026,06/04 al 10/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Lunes,2026-04-06,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Martes,2026-04-07,Turno Médico,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-04-08,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
-Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-04-09,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Miércoles,2026-04-08,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
+Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-04-09,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Jueves,2026-04-09,Educación Tecnológica,Prof. Karina,15:40,17:20,100,1.67,1.67,False,,0604_2026,06/04 al 10/04/2026
 Diaz Santino Fernando,2° Año,Escuela N° 707,Standartd Norte,Viernes,2026-04-10,Inglés,Prof. Maxi,15:20,16:40,80,1.33,1.33,False,,0604_2026,06/04 al 10/04/2026
 Gonzalez Román Antonio,2° Año,Escuela Nº 7704,Ara San Juan (Km 12),Lunes,2026-04-13,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
@@ -285,10 +285,10 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-04
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-04-17,Ciencias Sociales,Prof. Ricardo,13:20,14:20,60,1.0,1.0,False,,1304_2026,13/04 al 17/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-04-17,Ciencias Sociales,Prof. Ana,15:20,16:00,40,0.67,0.67,False,,1304_2026,13/04 al 17/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-04-17,Construcción de Ciudadanía,Prof. Ana,16:00,16:40,40,0.67,0.67,False,,1304_2026,13/04 al 17/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-13,Matemática,Prof. Pablo,15:50,17:20,90,1.5,1.5,False,,1304_2026,13/04 al 17/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-13,P.O.T. / Tutoría,Prof. Pablo,14:40,15:20,40,0.67,0.67,False,,1304_2026,13/04 al 17/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-14,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-14,Ciencias Naturales,Prof. Pablo,15:50,16:30,40,0.67,0.67,False,,1304_2026,13/04 al 17/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-13,Matemática,Prof. Pablo T.,15:50,17:20,90,1.5,1.5,False,,1304_2026,13/04 al 17/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-13,P.O.T. / Tutoría,Prof. Pablo T.,14:40,15:20,40,0.67,0.67,False,,1304_2026,13/04 al 17/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-14,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-14,Ciencias Naturales,Prof. Pablo T.,15:50,16:30,40,0.67,0.67,False,,1304_2026,13/04 al 17/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-14,Ciencias Naturales,Prof. Vanina,16:30,17:20,50,0.83,0.83,False,,1304_2026,13/04 al 17/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-04-16,Construcción de Ciudadanía,Prof. Ana,13:20,15:00,100,1.67,1.67,False,,1304_2026,13/04 al 17/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Viernes,2026-04-17,Inglés,Prof. Maxi,14:00,15:20,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
@@ -300,7 +300,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Martes,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-04-15,Matemática,Prof. Maxi,14:00,15:20,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-04-15,Matemática,Prof. Maxi,16:00,17:20,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-04-16,Educación Tecnológica,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,1304_2026,13/04 al 17/04/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-14,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,1304_2026,13/04 al 17/04/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-14,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,1304_2026,13/04 al 17/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-04-15,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,14:00,14:50,50,0.83,0.83,False,,1304_2026,13/04 al 17/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-04-16,Lengua y Literatura,Prof. Pablo S.,13:20,14:40,80,1.33,1.33,False,,1304_2026,13/04 al 17/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-04-16,Ciencias Naturales,Prof. Pablo S.,15:30,17:00,90,1.5,1.5,False,,1304_2026,13/04 al 17/04/2026
@@ -335,11 +335,11 @@ Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Jueves,2026-04-23
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Viernes,2026-04-24,Miércoles,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Lunes,2026-04-20,P.O.T. / Tutoría,Prof. Ricardo,15:00,16:00,60,1.0,1.0,False,,2004_2026,20/04 al 24/04/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Martes,2026-04-21,P.O.T. / Tutoría,Prof. Ricardo,15:00,16:00,60,1.0,1.0,False,,2004_2026,20/04 al 24/04/2026
-Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Lunes,2026-04-20,P.O.T. / Tutoría,Prof. Gastón Olivera,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
-Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Martes,2026-04-21,P.O.T. / Tutoría,Prof. Gastón Olivera,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
-Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Miércoles,2026-04-22,P.O.T. / Tutoría,Prof. Gastón Olivera,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
-Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Jueves,2026-04-23,P.O.T. / Tutoría,Prof. Gastón Olivera,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
-Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Viernes,2026-04-24,P.O.T. / Tutoría,Prof. Gastón Olivera,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Lunes,2026-04-20,P.O.T. / Tutoría,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Martes,2026-04-21,P.O.T. / Tutoría,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Miércoles,2026-04-22,P.O.T. / Tutoría,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Jueves,2026-04-23,P.O.T. / Tutoría,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Viernes,2026-04-24,P.O.T. / Tutoría,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Lunes,2026-04-20,Teléfono De Emergencias:,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Martes,2026-04-21,Teléfono De Emergencias:,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Miércoles,2026-04-22,Teléfono De Emergencias:,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
@@ -365,10 +365,10 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-04
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Jueves,2026-04-23,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,2004_2026,20/04 al 24/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-04-24,Ciencias Sociales,Prof. Ana,15:20,16:00,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Viernes,2026-04-24,Construcción de Ciudadanía,Prof. Ana,15:50,16:40,50,0.83,0.83,False,,2004_2026,20/04 al 24/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-20,Matemática,Prof. Pablo,15:50,17:20,90,1.5,1.5,False,,2004_2026,20/04 al 24/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-20,P.O.T. / Tutoría,Prof. Pablo,14:40,15:20,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-21,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-21,Ciencias Naturales,Prof. Pablo,15:50,16:30,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-20,Matemática,Prof. Pablo T.,15:50,17:20,90,1.5,1.5,False,,2004_2026,20/04 al 24/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-20,P.O.T. / Tutoría,Prof. Pablo T.,14:40,15:20,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-21,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-21,Ciencias Naturales,Prof. Pablo T.,15:50,16:30,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-21,Ciencias Naturales,Prof. Vanina,16:30,17:20,50,0.83,0.83,False,,2004_2026,20/04 al 24/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-22,Construcción de Ciudadanía,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Viernes,2026-04-24,Inglés,Prof. Maxi,14:00,15:20,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
@@ -380,7 +380,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-04-24,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-04-24,Construcción de Ciudadanía,Prof. Ana,14:40,15:20,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-04-24,Educación Tecnológica,Prof. Ana,15:30,17:20,110,1.83,1.83,False,,2004_2026,20/04 al 24/04/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-04-20,Matemática,Prof. Pablo,15:40,17:00,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-04-20,Matemática,Prof. Pablo T.,15:40,17:00,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-04-22,Ciencias Naturales,Prof. Vanina,15:40,17:00,80,1.33,1.33,False,,2004_2026,20/04 al 24/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-04-23,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,13:20,14:20,60,1.0,1.0,False,,2004_2026,20/04 al 24/04/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-04-23,Lengua y Literatura,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,2004_2026,20/04 al 24/04/2026
@@ -401,8 +401,8 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-04-21,Lengua y
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-22,Inglés,Prof. Maxi,14:00,14:40,40,0.67,0.67,False,,2004_2026,20/04 al 24/04/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-22,Ciencias Sociales,Prof. Ana,15:10,16:40,90,1.5,1.5,False,,2004_2026,20/04 al 24/04/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-04-23,Educación Tecnológica,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,2004_2026,20/04 al 24/04/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-04-27,Matemática,Prof. Pablo,14:00,15:10,70,1.17,1.17,False,,2704_2026,27/04 al 01/05/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-04-27,Ciencias Naturales,Prof. Pablo,15:20,16:40,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-04-27,Matemática,Prof. Pablo T.,14:00,15:10,70,1.17,1.17,False,,2704_2026,27/04 al 01/05/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-04-27,Ciencias Naturales,Prof. Pablo T.,15:20,16:40,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-04-28,Filosofía,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,2704_2026,27/04 al 01/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-04-29,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,13:20,14:00,40,0.67,0.67,False,,2704_2026,27/04 al 01/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-04-29,Inglés,Prof. Ana,14:00,14:40,40,0.67,0.67,False,,2704_2026,27/04 al 01/05/2026
@@ -417,10 +417,10 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-04
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-04-28,Construcción de Ciudadanía,Prof. Ana,15:50,16:40,50,0.83,0.83,False,,2704_2026,27/04 al 01/05/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-29,Inglés,Prof. Vanina,14:00,15:00,60,1.0,1.0,False,,2704_2026,27/04 al 01/05/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-04-29,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,2704_2026,27/04 al 01/05/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-27,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-04-27,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-28,Ciencias Naturales,Prof. Vanina,14:00,14:40,40,0.67,0.67,False,,2704_2026,27/04 al 01/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-28,Matemática,Prof. Vanina,14:40,15:20,40,0.67,0.67,False,,2704_2026,27/04 al 01/05/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-28,Matemática,Prof. Pablo,15:40,17:00,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-04-28,Matemática,Prof. Pablo T.,15:40,17:00,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-29,Inglés,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-29,Inglés,Prof. Ana,14:00,15:20,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-04-29,Ciencias Sociales,Prof. Ana,13:20,15:00,100,1.67,1.67,False,,2704_2026,27/04 al 01/05/2026
@@ -433,8 +433,8 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,20
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,2026-04-29,Educación Tecnológica,Prof. Karina,15:30,17:20,110,1.83,1.83,False,,2704_2026,27/04 al 01/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-04-27,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,13:20,14:20,60,1.0,1.0,False,,2704_2026,27/04 al 01/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-04-27,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,2704_2026,27/04 al 01/05/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-28,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-28,Ciencias Naturales,Prof. Pablo,15:40,17:00,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-28,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-04-28,Ciencias Naturales,Prof. Pablo T.,15:40,17:00,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-04-29,Inglés,Prof. Maxi,15:40,16:40,60,1.0,1.0,False,,2704_2026,27/04 al 01/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-04-30,Lengua y Literatura,Prof. Pablo S.,13:20,14:40,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Viernes,2026-05-01,Lengua y Literatura,Prof. Pablo S.,13:20,14:40,80,1.33,0.0,True,Día del Trabajador,2704_2026,27/04 al 01/05/2026
@@ -454,7 +454,7 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Martes,2026-04-28,Educaci�
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-29,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,2704_2026,27/04 al 01/05/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Miércoles,2026-04-29,Construcción de Ciudadanía,Prof. Ana,16:00,16:40,40,0.67,0.67,False,,2704_2026,27/04 al 01/05/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Jueves,2026-04-30,Educación Tecnológica,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,2704_2026,27/04 al 01/05/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-05-04,Matemática,Prof. Pablo,14:00,15:40,100,1.67,1.67,False,,0405_2026,04/05 al 08/05/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-05-04,Matemática,Prof. Pablo T.,14:00,15:40,100,1.67,1.67,False,,0405_2026,04/05 al 08/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-05-05,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-06,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,0405_2026,04/05 al 08/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-05-07,Lengua y Literatura,Prof. Pablo S.,13:20,14:40,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
@@ -468,8 +468,8 @@ Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-05
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Martes,2026-05-05,Construcción de Ciudadanía,Prof. Ana,15:50,16:40,50,0.83,0.83,False,,0405_2026,04/05 al 08/05/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-05-06,Inglés,Prof. Vanina,14:00,15:00,60,1.0,1.0,False,,0405_2026,04/05 al 08/05/2026
 Vidal Agustín Ignacio,4° Año,Escuela Nº 722,Próspero Palazzo,Miércoles,2026-05-06,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,0405_2026,04/05 al 08/05/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-05-04,Lengua y Literatura,Prof. Pablo,13:20,14:40,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
-Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-05-05,Matemática,Prof. Pablo,16:00,17:20,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Lunes,2026-05-04,Lengua y Literatura,Prof. Pablo T.,13:20,14:40,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
+Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Martes,2026-05-05,Matemática,Prof. Pablo T.,16:00,17:20,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-05-06,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Miércoles,2026-05-06,Ciencias Sociales,Prof. Ana,13:20,15:00,100,1.67,1.67,False,,0405_2026,04/05 al 08/05/2026
 Arias Leal Dylan Exequiel,4° Año,Escuela N° 757,Valle C,Jueves,2026-05-07,Ciencias Naturales,Prof. Vanina,15:40,16:20,40,0.67,0.67,False,,0405_2026,04/05 al 08/05/2026
@@ -483,7 +483,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Miércoles,20
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-08,Construcción de Ciudadanía,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-08,Educación Tecnológica,Prof. Ana,15:30,17:20,110,1.83,1.83,False,,0405_2026,04/05 al 08/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-05-04,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,0405_2026,04/05 al 08/05/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-05,Matemática,Prof. Pablo,14:00,15:40,100,1.67,1.67,False,,0405_2026,04/05 al 08/05/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-05,Matemática,Prof. Pablo T.,14:00,15:40,100,1.67,1.67,False,,0405_2026,04/05 al 08/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-06,Inglés,Prof. Maxi,15:40,16:40,60,1.0,1.0,False,,0405_2026,04/05 al 08/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-05-07,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,0405_2026,04/05 al 08/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-05-07,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,0405_2026,04/05 al 08/05/2026
@@ -508,7 +508,7 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-05-07,Inglés,
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Viernes,2026-05-08,Educación Tecnológica,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,0405_2026,04/05 al 08/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-05-11,Turno Médico,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-05-12,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-13,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-13,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-13,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,1105_2026,11/05 al 15/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-05-14,Lengua y Literatura,Prof. Silvia,16:40,18:00,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Viernes,2026-05-15,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,15:00,15:50,50,0.83,0.83,False,,1105_2026,11/05 al 15/05/2026
@@ -536,7 +536,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-15,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-15,Educación Tecnológica,Prof. Ana,15:30,17:20,110,1.83,1.83,False,,1105_2026,11/05 al 15/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-05-11,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,1105_2026,11/05 al 15/05/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-12,Matemática,Prof. Pablo,14:00,15:40,100,1.67,1.67,False,,1105_2026,11/05 al 15/05/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-12,Matemática,Prof. Pablo T.,14:00,15:40,100,1.67,1.67,False,,1105_2026,11/05 al 15/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-13,Lengua y Literatura,Prof. Maxi,15:40,16:40,60,1.0,1.0,False,,1105_2026,11/05 al 15/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-13,Lengua y Literatura,Prof. Maxi,16:40,18:00,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-05-14,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,1105_2026,11/05 al 15/05/2026
@@ -559,7 +559,7 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-05-14,Inglés,
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-05-14,Inglés,Prof. Karina,15:40,16:40,60,1.0,1.0,False,,1105_2026,11/05 al 15/05/2026
 Olivera Herrera Martina Francesca,2° Año,A,Diadema Argentina,Viernes,2026-05-15,Educación Tecnológica,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,1105_2026,11/05 al 15/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-05-19,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,1805_2026,18/05 al 22/05/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-20,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,1805_2026,18/05 al 22/05/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-20,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,1805_2026,18/05 al 22/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-20,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,1805_2026,18/05 al 22/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-05-21,Lengua y Literatura,Prof. Ricardo,14:40,15:40,60,1.0,1.0,False,,1805_2026,18/05 al 22/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-05-21,Lengua y Literatura,Prof. Ricardo,16:20,18:00,100,1.67,1.67,False,,1805_2026,18/05 al 22/05/2026
@@ -590,7 +590,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-22,Ciencias Sociales,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,1805_2026,18/05 al 22/05/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-22,Educación Tecnológica,Prof. Ana,15:30,17:20,110,1.83,1.83,False,,1805_2026,18/05 al 22/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-05-18,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,1805_2026,18/05 al 22/05/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-19,Matemática,Prof. Pablo,14:00,15:40,100,1.67,1.67,False,,1805_2026,18/05 al 22/05/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-19,Matemática,Prof. Pablo T.,14:00,15:40,100,1.67,1.67,False,,1805_2026,18/05 al 22/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-20,Lengua y Literatura,Prof. Maxi,15:40,16:40,60,1.0,1.0,False,,1805_2026,18/05 al 22/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-20,Lengua y Literatura,Prof. Maxi,16:20,18:00,100,1.67,1.67,False,,1805_2026,18/05 al 22/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-05-21,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,1805_2026,18/05 al 22/05/2026
@@ -616,7 +616,7 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-05-21,Inglés,
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-05-22,Educación Tecnológica,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,1805_2026,18/05 al 22/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-05-25,25 De Mayo: Día De La Revolución De Mayo,Sin Asignar,14:00,15:20,80,1.33,0.0,True,Día de la Revolución de Mayo,2505_2026,25/05 al 29/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-05-26,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,2505_2026,25/05 al 29/05/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-27,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,2505_2026,25/05 al 29/05/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-27,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,2505_2026,25/05 al 29/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-05-27,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,2505_2026,25/05 al 29/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-05-28,Lengua y Literatura,Prof. Silvia,16:20,18:00,100,1.67,1.67,False,,2505_2026,25/05 al 29/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Viernes,2026-05-29,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,15:00,15:50,50,0.83,0.83,False,,2505_2026,25/05 al 29/05/2026
@@ -647,7 +647,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-29,Construcción de Ciudadanía,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2505_2026,25/05 al 29/05/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-05-29,Educación Tecnológica,Prof. Ana,15:30,17:20,110,1.83,1.83,False,,2505_2026,25/05 al 29/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-05-25,25 De Mayo: Día De La Revolución De Mayo.,Sin Asignar,14:00,15:20,80,1.33,0.0,True,Día de la Revolución de Mayo,2505_2026,25/05 al 29/05/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-26,Matemática,Prof. Pablo,14:00,15:40,100,1.67,1.67,False,,2505_2026,25/05 al 29/05/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-26,Matemática,Prof. Pablo T.,14:00,15:40,100,1.67,1.67,False,,2505_2026,25/05 al 29/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-05-26,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,2505_2026,25/05 al 29/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-27,Lengua y Literatura,Prof. Maxi,15:40,16:40,60,1.0,1.0,False,,2505_2026,25/05 al 29/05/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-05-27,Lengua y Literatura,Prof. Maxi,16:20,18:00,100,1.67,1.67,False,,2505_2026,25/05 al 29/05/2026
@@ -673,7 +673,7 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Jueves,2026-05-28,Inglés,
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-05-29,Ciencias Naturales,Prof. Karina,13:20,14:40,80,1.33,1.33,False,,2505_2026,25/05 al 29/05/2026
 Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-05-29,Ciencias Naturales,Prof. Karina,16:40,17:20,40,0.67,0.67,False,,2505_2026,25/05 al 29/05/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-06-02,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,0106_2026,01/06 al 05/06/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-06-03,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,0106_2026,01/06 al 05/06/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-06-03,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,0106_2026,01/06 al 05/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-06-03,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,0106_2026,01/06 al 05/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-06-04,Probl. Actual Del Mundo Contemporaneo A Ciud. Y Trabajo,Prof. Ana,15:00,15:50,50,0.83,0.83,False,,0106_2026,01/06 al 05/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-06-04,Lengua y Literatura,Prof. Ana,15:50,16:40,50,0.83,0.83,False,,0106_2026,01/06 al 05/06/2026
@@ -704,7 +704,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-06-05,Construcción de Ciudadanía,Prof. Ana,14:00,15:20,80,1.33,1.33,False,,0106_2026,01/06 al 05/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-06-01,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,0106_2026,01/06 al 05/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-02,Matemática,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,0106_2026,01/06 al 05/06/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-02,Matemática,Prof. Pablo,15:50,17:20,90,1.5,1.5,False,,0106_2026,01/06 al 05/06/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-02,Matemática,Prof. Pablo T.,15:50,17:20,90,1.5,1.5,False,,0106_2026,01/06 al 05/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-06-03,Lengua y Literatura,Prof. Silvia,16:20,18:00,100,1.67,1.67,False,,0106_2026,01/06 al 05/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-06-04,Inglés,Prof. Maxi,14:00,15:00,60,1.0,1.0,False,,0106_2026,01/06 al 05/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-06-04,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,0106_2026,01/06 al 05/06/2026
@@ -728,7 +728,7 @@ Cárcamo Jonas,3° Año,Escuela N° 757,Barrio Moreno,Viernes,2026-06-05,Materia
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-06-08,Ciud. Y Trabajo A Probl. Actual Del Mundo Contemporaneo,Prof. Ana,13:20,14:20,60,1.0,1.0,False,,0806_2026,08/06 al 12/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Lunes,2026-06-08,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,0806_2026,08/06 al 12/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Martes,2026-06-09,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,0806_2026,08/06 al 12/06/2026
-Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-06-10,Matemática,Prof. Pablo,14:00,15:20,80,1.33,1.33,False,,0806_2026,08/06 al 12/06/2026
+Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-06-10,Matemática,Prof. Pablo T.,14:00,15:20,80,1.33,1.33,False,,0806_2026,08/06 al 12/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Miércoles,2026-06-10,Inglés,Prof. Maxi,15:30,16:40,70,1.17,1.17,False,,0806_2026,08/06 al 12/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Jueves,2026-06-11,Lengua y Literatura,Prof. Silvia,16:10,18:00,110,1.83,1.83,False,,0806_2026,08/06 al 12/06/2026
 Romero Paulo Daniel,6° Año,Escuela N° 766,Diadema,Viernes,2026-06-12,Turno Médico,Sin Asignar,14:00,15:20,80,1.33,1.33,False,,0806_2026,08/06 al 12/06/2026
@@ -757,7 +757,7 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-06-12,Educación Tecnológica,Prof. Karina,13:20,15:00,100,1.67,1.67,False,,0806_2026,08/06 al 12/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-06-08,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,0806_2026,08/06 al 12/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-09,Matemática,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,0806_2026,08/06 al 12/06/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-09,Matemática,Prof. Pablo,15:50,17:20,90,1.5,1.5,False,,0806_2026,08/06 al 12/06/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-09,Matemática,Prof. Pablo T.,15:50,17:20,90,1.5,1.5,False,,0806_2026,08/06 al 12/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-06-10,Lengua y Literatura,Prof. Silvia,16:20,18:00,100,1.67,1.67,False,,0806_2026,08/06 al 12/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-06-11,Inglés,Prof. Maxi,14:00,15:00,60,1.0,1.0,False,,0806_2026,08/06 al 12/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Viernes,2026-06-12,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,0806_2026,08/06 al 12/06/2026
@@ -860,8 +860,8 @@ Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Jueves,2026-0
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-06-26,Inglés,Prof. Ana,13:20,14:40,80,1.33,1.33,False,,2206_2026,22/06 al 26/06/2026
 Julio Jerónimo Jesús,2° Año,Escuela Nº 7704,Diadema Argentina,Viernes,2026-06-26,Inglés,Prof. Ana,15:40,16:40,60,1.0,1.0,False,,2206_2026,22/06 al 26/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Lunes,2026-06-22,Ciencias Naturales,Prof. Vanina,14:00,15:20,80,1.33,1.33,False,,2206_2026,22/06 al 26/06/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-23,Matemática,Prof. Pablo,14:00,15:40,100,1.67,1.67,False,,2206_2026,22/06 al 26/06/2026
-Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-23,Lengua y Literatura,Prof. Pablo,16:25,18:00,95,1.58,1.58,False,,2206_2026,22/06 al 26/06/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-23,Matemática,Prof. Pablo T.,14:00,15:40,100,1.67,1.67,False,,2206_2026,22/06 al 26/06/2026
+Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Martes,2026-06-23,Lengua y Literatura,Prof. Pablo T.,16:25,18:00,95,1.58,1.58,False,,2206_2026,22/06 al 26/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Miércoles,2026-06-24,Ciud. Y Trabajo A,Prof. Ana,14:20,15:20,60,1.0,1.0,False,,2206_2026,22/06 al 26/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Jueves,2026-06-25,Inglés,Prof. Maxi,14:00,15:10,70,1.17,1.17,False,,2206_2026,22/06 al 26/06/2026
 Castro Lucas Alejandro,6° Año,Escuela N° 757,Laprida,Viernes,2026-06-26,Probl. Actual Del Mundo Contemporaneo A,Prof. Ana,15:30,16:40,70,1.17,1.17,False,,2206_2026,22/06 al 26/06/2026

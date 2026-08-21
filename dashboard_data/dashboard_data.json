@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-21 16:24:50",
+    "generated_at": "2026-08-21 16:27:09",
     "cutoff_date": "2026-06-30",
     "period_description": "Ciclo Lectivo 2026 - 1° Semestre (23 Feb al 30 Jun 2026)",
     "total_weeks": 19,
@@ -10,7 +10,7 @@
     "effective_hours": 1015.7,
     "total_working_days": 85,
     "total_holidays": 7,
-    "teachers_count": 11,
+    "teachers_count": 10,
     "subjects_count": 34
   },
   "official_holidays": [
@@ -61,7 +61,6 @@
     "Prof. Karina",
     "Prof. María Fernanda",
     "Prof. Maxi",
-    "Prof. Noelia",
     "Prof. Pablo S.",
     "Prof. Pablo T.",
     "Prof. Ricardo",
@@ -3474,7 +3473,7 @@
       "day": "Martes",
       "date": "2026-03-31",
       "subject": "Inglés",
-      "teacher": "Prof. Noelia",
+      "teacher": "Sin Asignar",
       "time_start": "17:00",
       "time_end": "18:00",
       "duration_minutes": 60,
